@@ -2,6 +2,11 @@
   "path": "/",
   "blocks": [
     {
+      "content": "",
+      "center": false,
+      "_template": "ContentBlock"
+    },
+    {
       "image": "../images/[object Object]",
       "_template": "ImageBlock",
       "content": ""
